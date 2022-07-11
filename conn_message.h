@@ -1,7 +1,7 @@
 #ifndef  _ROUTER_MESSAGE_H_
 #define  _ROUTER_MESSAGE_H_
 
-#include "protocol/internal_message_header.h"
+#include "internal_message_header.h"
 
 #define MAX_OPENID_LEN      (64)
 #define MAX_MULTICAST_CONN_PER_TCONND		(128)
